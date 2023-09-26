@@ -1,0 +1,107 @@
+body {
+	font-family: 'Roboto', sans-serif;
+
+	margin: 20px;
+
+	.a {
+		color: black;
+		text-decoration: none;
+	     }
+
+		.atext {
+			font-size: 13px;
+	    }
+
+	.France {
+		.atext {
+			font-size: 16;
+		}
+	}
+	.btn-connexion {
+		background-color: blue;
+		color: white;
+		padding: 10px 20px;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+		 }
+		
+		.btn-text {
+		font-size: 16px;
+		}
+	
+	.btn-RechercheGoogle {
+		background-color: rgb(236, 236, 236);
+		color: rgb(36, 36, 36);
+		padding: 7px 15px;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+		 }
+		
+		.btn-text1 {
+		font-size: 13px;
+		}
+
+	.btn-Jaidelachance {
+		background-color: rgb(236, 236, 236);
+		color: rgb(36, 36, 36);
+		padding: 7px 15px;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+		 }
+		
+		.btn-text2 {
+		font-size: 13px;
+		}
+
+	.barrederecherchegoogle {
+		border-radius: 35px;
+		border: 1px solid; 
+		width: 40%;
+		height: 40px;
+		border-color: hsla(0, 1%, 63%, 0.333);
+	}
+
+	
+
+	.div1 { 
+		display: flex;
+		justify-content: end;
+	}
+
+	.div2 {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.div3 {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.div4 {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.div5 {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.div9 {
+		background-color: rgb(234, 234, 235);
+	}
+
+	.div10 {
+		display: flex;
+		justify-content: left;
+		align-items: center;
+	}
+}
